@@ -235,10 +235,10 @@ header{                   /*Define el estilo del header*/
     }
     footer {   /*estilo del footer*/
       width: 100%;
-      height: 80px;
+      height: 100px;
       background-color:#FA7272;
       position: relative;
-      bottom: 0;
+      bottom: 0px;
       margin: 0px;
       display: flex;
       padding: 20px;
